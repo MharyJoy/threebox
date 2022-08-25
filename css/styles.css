@@ -1,0 +1,37 @@
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+
+/****************************** CLASS SELECTORS ******************************/
+
+.top-container {
+  background-color: #E4F9F5;
+  width: 200px;
+  height: 200px;
+  border: 10px;
+  padding: 20px;
+}
+
+.middle-container {
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+  border: 20px;
+  margin-left: 240px;
+  background-color: red;
+}
+
+.bottom-container {
+  width: 200px;
+  height: 200px;
+  border: 10px;
+  border-style: solid;
+  background-color: blue;
+  margin-left: 440px
+}
